@@ -1,5 +1,5 @@
 -  Hey, I’m @Lexiety3
 -  I’m interested in video games, website development, reading and researching random topics!
--  I’m currently learning HTML, Python and will be starting to learn JavaScript soon!
+-  I’m currently learning HTML, Python and TRYING JavaScript
 -  I plan on getting a degree in either Game Devlopment or Software Devlopment, maybe Cyber Security also!
 -  I just started my Coding journey a few months back so I am very basic/bare back knowledge lol so bare with me!
